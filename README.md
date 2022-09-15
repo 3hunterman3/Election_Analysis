@@ -14,7 +14,7 @@ The tasks were the following:
 - Data source: election_results.csv
 - software: python 3.9.7, Visual Studio Code, 1.38.1
 
-## Summary
+## Data Summary
 The analysis of the election showed us that:
 - There was 369,711 votes that were cast in the election.
 - The candidates in the election were:
@@ -30,5 +30,5 @@ The analysis of the election showed us that:
 ## Challenge Overview
 The idea of this challenge was to be able to take a csv file and see the data in the file and compile code that allowed the user to get the data they needed. I created code that allowed me to take the total amount of votes in the data as well as counted each vote for the candidates. Doing this allowed me to be able to calculate the popular vote and the winner of the election.
 
-## Challenge Summary
+## Summary and what I learned
 This challenge showed me the flexibility of python and how I can use loops and if statments to filter the data I need and collect data I need from a different file. This challenge allowed me to be able to manuver data files and has given me the skills to create code for any data sets.
